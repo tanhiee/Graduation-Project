@@ -9,7 +9,7 @@ Dự án này nghiên cứu và phát triển một hệ thống phát hiện đ
 
 Hệ thống không chỉ tập trung vào việc phát hiện các kỹ thuật tấn công tinh vi (như low-and-slow attacks) mà còn tích hợp cơ chế phòng thủ cho mô hình AI và tự động hóa quy trình phản hồi sự cố.
 
-Đây là Đồ án Tốt nghiệp thuộc chương trình Công nghệ Thông tin Ứng dụng tại **Khoa Quốc tế - Đại học Quốc gia Hà Nội (VNU-IS)**. Xin gửi lời cảm ơn chân thành đến **TS. Nguyễn Văn Tánh** và **TS. Kim Đình Thái** đã tận tình hướng dẫn và hỗ trợ hoàn thành dự án này.
+Đây là Đồ án Tốt nghiệp thuộc chương trình Công nghệ Thông tin Ứng dụng tại **Khoa Quốc tế - Đại học Quốc gia Hà Nội (VNU-IS)**. Xin gửi lời cảm ơn chân thành đến **TS. Nguyễn Văn Tánh** đã tận tình hướng dẫn và hỗ trợ hoàn thành dự án này.
 
 ## Các tính năng chính (Key Features)
 - **Mô phỏng tấn công & Dữ liệu:** Kịch bản giả lập lưu lượng truy cập bình thường và các cuộc tấn công Credential Stuffing nhắm vào hệ thống LMS (Moodle).
