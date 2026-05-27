@@ -5,7 +5,7 @@
 ![Jupyter](https://img.shields.io/badge/Tools-Jupyter%20Notebook-orange)
 
 ## Giới thiệu (Introduction)
-Dự án này nghiên cứu và phát triển một hệ thống phát hiện điểm bất thường dựa trên học máy (Machine Learning) nhằm bảo vệ các Hệ thống Quản lý Học tập (Learning Management Systems - LMS) khỏi các cuộc tấn công nhồi nhét thông tin xác thực (Credential Stuffing). 
+Dự án này nghiên cứu và phát triển một hệ thống phát hiện điểm bất thường dựa trên học máy (Machine Learning) nhằm bảo vệ các Hệ thống Quản lý Học tập (Learning Management Systems - LMS) khỏi các cuộc tấn công Credential Stuffing. 
 
 Hệ thống không chỉ tập trung vào việc phát hiện các kỹ thuật tấn công tinh vi (như low-and-slow attacks) mà còn tích hợp cơ chế phòng thủ cho mô hình AI và tự động hóa quy trình phản hồi sự cố.
 
